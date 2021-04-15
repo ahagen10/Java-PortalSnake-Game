@@ -1,4 +1,4 @@
-# Computer Game - PortalSnake
+# PortalSnake
 Description: This game combines elements from the classic game of Snake (aka Nibble) with the modern puzzle game Portal. In this game, there are various levels where you maneuver a snake to collect apples that extend the length of its body. You win by collecting all of the apples on a given level. However colliding with any rocks or with your own body will end your game with a loss. The twist on this classic Snake gameplay, are pairs of portals that teleport the snake from one part of the screen to another.
 
 Goals: 
